@@ -3,7 +3,6 @@ apply plugin: 'com.xuexiang.xaop' //引用xaop插件
 
 android {
     compileSdkVersion build_versions.target_sdk
-    buildToolsVersion build_versions.build_tools
 
     defaultConfig {
         applicationId "com.xuexiang.xutildemo"
